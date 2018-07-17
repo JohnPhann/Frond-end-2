@@ -1,14 +1,19 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 /*# sourceMappingURL=nghia.css.map */
 =======
 .phong {
+=======
+#nghia1{
+>>>>>>> d12b40edfe3a809ab8cf90ddd348a0be268b9eb8
   width: 100%;
   background: url(../img/box-2.jpg) top center;
   height: 500px;
   background-size: cover;
+<<<<<<< HEAD
   z-index: 5; }
   .phong .p1 {
     width: 50%;
@@ -70,6 +75,65 @@
   padding: 2%;
   font-size: 20px;
   border-radius: 2.5%; }
+=======
+  float: left;
+
+}
+#nghia1 #n2 {
+  background:none;
+  height: 400px;
+  margin-left:700px;
+ 
+
+}
+
+#nghia1 #n2 .title-news {
+  color: #96d610;
+}
+#nghia1 #n2 .news p {
+  color: white;
+  font-size: 20px;
+}
+#nghia1 #n2 .contenta #n3 {
+  display: inline-block;
+  width: 45%;
+  margin-right: 2%;
+  border: 2px solid #96d610;
+  height: 6rem;
+  line-height: 6rem;
+  text-align: center;
+  font-size: 2.0rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  background: black;
+  text-decoration: none;
+  color: #96d610;
+  border-radius: 10px;
+}
+#nghia1 #n2 .contenta #n4 {
+  display: inline-block;
+  width: 45%;
+  margin-right: 2%;
+  border: 2px solid #96d610;
+  height: 6rem;
+  line-height: 6rem;
+  text-align: center;
+  font-size: 2.0rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #96d610;
+}
+#nghia1 #n2 .contenta #n3:hover {
+  background: #96d610;
+  color: black;
+}
+#nghia1 #n2 .contenta #n4:hover {
+  background: #96d610;
+  color: black;
+}
+>>>>>>> d12b40edfe3a809ab8cf90ddd348a0be268b9eb8
 
 .nen .gioithieu {
   height: 650px;
