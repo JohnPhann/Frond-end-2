@@ -68,7 +68,7 @@
 =======
 .phong {
   width: 100%;
-  background: url(../img/box-2.jpg) top center;
+  background: url("../img/box-2.jpg") top center;
   height: 500px;
   background-size: cover;
   z-index: 5; }
